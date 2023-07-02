@@ -80,3 +80,11 @@ button:hover .play {
     transform: translateX(200%);
     transition-delay: 300ms;
 }
+
+.erro {
+    color: #f00;
+}
+
+.ok {
+    color: rgb(12, 236, 12);
+}
