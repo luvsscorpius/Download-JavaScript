@@ -1,0 +1,15 @@
+{
+  "name": "and",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luvsscorpius/Download-JavaScript.git",
+  "author": "and <andersonvittor1801@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.6",
+    "@commitlint/config-conventional": "^17.6.6",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^21.0.7"
+  }
+}
